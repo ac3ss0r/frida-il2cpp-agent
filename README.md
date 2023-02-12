@@ -16,7 +16,7 @@ pip install pygments -U
 Clone the repository and get frida binary
 ```bash
 git clone https://github.com/acessors/frida-il2cpp-agent
-cd frida-il2cpp-agent
+cd frida-il2cpp-agent/il2cpp-agent
 wget https://github.com/frida/frida/releases/download/16.0.9/frida-server-16.0.9-android-arm64.xz
 unxz frida-server-16.0.9-android-arm64.xz && mv frida-server-16.0.9-android-arm64 frida64
 ```
