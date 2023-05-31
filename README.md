@@ -32,6 +32,7 @@ sudo ./frida64 -s _agent.js -f "com.android.package"
 ```
 
 ### Some examples
-<center><img src="https://github.com/acessors/frida-il2cpp-agent/blob/main/sample-trace.png?raw=true"></center>
-
-<center><img src="https://github.com/acessors/frida-il2cpp-agent/blob/main/pg3d-trace.png?raw=true"></center>
+<div width=100% align=center>
+  <img width=50% src="https://github.com/acessors/frida-il2cpp-agent/blob/main/sample-trace.png?raw=true"/>
+  <img width=50% src="https://github.com/acessors/frida-il2cpp-agent/blob/main/pg3d-trace.png?raw=true"/>
+</div>
